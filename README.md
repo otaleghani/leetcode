@@ -4,6 +4,7 @@ Archive of leetcode solutions.
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|     [Two Sum](https://leetcode.com/problems/two-sum)| [JavaScript, Go](./algorithms/two-sum/) |Easy|
+|21|    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)| [TypeScript](./algorithms/merge-two-sorted-lists/) |Easy|
 |412|   [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) |Easy|
 |1072|  [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) |Medium|
 |1342|  [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) |Easy|
