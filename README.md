@@ -4,6 +4,7 @@ Archive of leetcode solutions.
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|     [Two Sum](https://leetcode.com/problems/two-sum)| [JavaScript, Go](./algorithms/two-sum/) |Easy|
+|2|     [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description)| [Typescript](./algorithms/add-two-numbers/) |Medium|
 |21|    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)| [TypeScript](./algorithms/merge-two-sorted-lists/) |Easy|
 |46|    [Permutations](https://leetcode.com/problems/permutations/description/)| [Python](./algorithms/permutations/) |Medium|
 |412|   [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) |Easy|
