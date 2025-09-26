@@ -20,6 +20,7 @@
           nodePackages.prettier
           go
           gopls
+          mdformat
         ];
         shellHook = ''
           exec zsh
