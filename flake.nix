@@ -1,12 +1,13 @@
 {
-  description = "Golang + Node";
+  description = "leetcode";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
   };
 
-  outputs = { self, nixpkgs }: 
-    let 
+  outputs =
+    { self, nixpkgs }:
+    let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
     in
@@ -23,9 +24,9 @@
           mdformat
         ];
         shellHook = ''
-          exec zsh
+          tmux new-session -s leetcode -d 'nvim'
+          exec tmux attach-session -t leetcode
         '';
       };
     };
 }
-
