@@ -24,7 +24,7 @@
           mdformat
         ];
         shellHook = ''
-          tmux new-session -s leetcode -d 'nvim'
+          tmux new-session -s leetcode -d 'nvim' \; new-window 'lazygit'
           exec tmux attach-session -t leetcode
         '';
       };
