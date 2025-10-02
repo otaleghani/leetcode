@@ -41,6 +41,7 @@ Archive of leetcode solutions.
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Typescript](./algorithms/min-stack/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Typescript, Go](./algorithms/two-sum-ii/) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Typescript](./algorithms/majority-element) | Easy |
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Go](./algorithms/number-of-1-bits) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Typescript](./algorithms/reverse-linked-list) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
