@@ -80,7 +80,7 @@ Archive of leetcode solutions.
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Go](./algorithms/longest-nice-substring/) | Easy |
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Typescript](./algorithms/merge-strings-alternately) | Easy |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Typescript, Go](./algorithms/merge-strings-alternately) | Easy |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
