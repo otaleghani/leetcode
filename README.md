@@ -65,6 +65,7 @@ Archive of leetcode solutions.
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Typescript](./algorithms/permutation-in-string) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) | [Go](./algorithms/can-place-flowers/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Typescript](./algorithms/baseball-game) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
@@ -76,6 +77,7 @@ Archive of leetcode solutions.
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) | [Go](./algorithms/kids-with-the-greatest-number-of-candies/) | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
