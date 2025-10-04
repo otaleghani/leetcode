@@ -54,6 +54,7 @@ Archive of leetcode solutions.
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Go](./algorithms/product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Typescript, Go](./algorithms/valid-anagram) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Go](./algorithms/missing-number) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description) | [Go](./algorithms/move-zeroes/) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/) | [Typescript](./algorithms/range-sum-query-2d-immutable) | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Go](./algorithms/counting-bits) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Typescript](./algorithms/reverse-string) | Easy |
