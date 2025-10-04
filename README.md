@@ -58,6 +58,7 @@ Archive of leetcode solutions.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Typescript](./algorithms/reverse-string) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Typescript](./algorithms/top-k-frequent-elements) | Medium |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Go](./algorithms/sum-of-two-integers) | Medium |
+| 375 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) | [Go](./algorithms/reverse-vowels-of-a-string/) | Easy |
 | 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Typescript](./algorithms/ransom-note) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Typescript](./algorithms/longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) | Easy |
