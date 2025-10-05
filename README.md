@@ -63,6 +63,7 @@ Archive of leetcode solutions.
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [Go](./algorithms/sum-of-two-integers) | Medium |
 | 375 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) | [Go](./algorithms/reverse-vowels-of-a-string/) | Easy |
 | 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Typescript](./algorithms/ransom-note) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Go](./algorithms/is-subsequence/) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Typescript](./algorithms/longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) | Easy |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description) | [Go](./algorithms/longest-repeating-character-replacement/) | Medium |
