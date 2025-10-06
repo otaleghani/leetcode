@@ -87,6 +87,7 @@ Archive of leetcode solutions.
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description) | [Go](./algorithms/max-number-of-k-sum-pairs/) | Medium |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | [Go](./algorithms/longest-nice-substring/) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | [Typescript, Go](./algorithms/merge-strings-alternately) | Easy |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
