@@ -77,6 +77,7 @@ Archive of leetcode solutions.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Typescript](./algorithms/design-hashset) | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Typescript](./algorithms/design-hashmap) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Typescript](./algorithms/sort-an-array/) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
