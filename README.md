@@ -100,6 +100,7 @@ Archive of leetcode solutions.
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript](./algorithms/concatenation-of-array) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Go](./algorithms/find-the-difference-of-two-arrays/) | Easy |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Go](./algorithms/count-unguarded-cells-in-the-grid) | Medium |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Go](./algorithms/find-the-k-beauty-of-a-number/) | Easy |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
