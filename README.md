@@ -83,6 +83,7 @@ Archive of leetcode solutions.
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description) | [Go](./algorithms/greatest-common-divisor-of-strings/) | Easy |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) | Medium |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) | [Go](./algorithms/kids-with-the-greatest-number-of-candies/) | Easy |
