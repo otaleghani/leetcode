@@ -74,6 +74,7 @@ Archive of leetcode solutions.
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description) | [Go](./algorithms/can-place-flowers/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Go](./algorithms/dota2-senate/) | Medium |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Typescript](./algorithms/baseball-game) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Typescript](./algorithms/design-hashset) | Easy |
