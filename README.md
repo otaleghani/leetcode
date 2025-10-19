@@ -44,7 +44,7 @@ Archive of leetcode solutions.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Typescript](./algorithms/majority-element) | Easy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Go](./algorithms/number-of-1-bits) | Easy |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Typescript](./algorithms/reverse-linked-list) | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Typescript, Go](./algorithms/reverse-linked-list) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Typescript](./algorithms/contains-duplicate-ii) | Easy |
@@ -108,6 +108,7 @@ Archive of leetcode solutions.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript](./algorithms/concatenation-of-array) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Go](./algorithms/maximum-twin-sum-of-a-linked-list/) | Medium |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Go](./algorithms/find-the-difference-of-two-arrays/) | Easy |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Go](./algorithms/count-unguarded-cells-in-the-grid) | Medium |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Go](./algorithms/find-the-k-beauty-of-a-number/) | Easy |
