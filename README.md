@@ -32,7 +32,7 @@ Archive of leetcode solutions.
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Typescript](./algorithms/merge-sorted-array) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Typescript](./algorithms/same-tree) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Typescript](./algorithms/binary-tree-level-order-traversal/) | Medium |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Typescript](./algorithms/maximum-depth-of-binary-tree/) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Typescript, Go](./algorithms/best-time-to-buy-and-sell-stock/) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Typescript, Go](./algorithms/valid-palindrome/) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Go](./algorithms/longest-consecutive-sequence/) | Medium |
@@ -82,6 +82,7 @@ Archive of leetcode solutions.
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Typescript](./algorithms/design-hashmap) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Go](./algorithms/asteroid-collision/) | Medium |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Typescript](./algorithms/sort-an-array/) | Medium |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) | [Go](./algorithms/number-of-recent-calls/) | Easy |
