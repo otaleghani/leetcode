@@ -29,3 +29,25 @@ func findGoodNodes(root *TreeNode, max int) int {
 
 	return countLeft + countRight
 }
+
+func goodNodesAlternative(root *TreeNode) int {
+	count := 0
+	findGoodNodesAlternative(root, root.Val, &count)
+
+	return count
+}
+
+// max is the original value of the root
+func findGoodNodesAlternative(root *TreeNode, max int, count *int) {
+	if root == nil {
+		return
+	}
+
+	if root.Val >= max {
+		*count++
+		max = root.Val
+	}
+
+	findGoodNodesAlternative(root.Left, max, count)
+	findGoodNodesAlternative(root.Right, max, count)
+}
