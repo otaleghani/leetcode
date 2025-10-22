@@ -42,3 +42,33 @@ func pathSumRec(root *TreeNode, currVal, targetSum, depth int, count *int) {
 		}
 	}
 }
+
+// Faster O(N) speed
+func pathSumAlternative(root *TreeNode, targetSum int) int {
+	if root == nil {
+		return 0
+	}
+
+	prefixSums := make(map[int]int)
+	prefixSums[0] = 1
+	return dfs(root, 0, targetSum, prefixSums)
+}
+
+func dfs(node *TreeNode, currentPathSum int, targetSum int, prefixSums map[int]int) int {
+	if node == nil {
+		return 0
+	}
+
+	currentPathSum += node.Val
+
+	count := prefixSums[currentPathSum-targetSum]
+
+	prefixSums[currentPathSum]++
+
+	count += dfs(node.Left, currentPathSum, targetSum, prefixSums)
+	count += dfs(node.Right, currentPathSum, targetSum, prefixSums)
+
+	prefixSums[currentPathSum]--
+
+	return count
+}
