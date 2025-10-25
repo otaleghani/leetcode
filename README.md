@@ -44,6 +44,7 @@ Archive of leetcode solutions.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Typescript](./algorithms/majority-element) | Easy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Go](./algorithms/number-of-1-bits) | Easy |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](./algorithms/binary-tree-right-side-view/) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Typescript, Go](./algorithms/reverse-linked-list) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
