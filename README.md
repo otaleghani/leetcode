@@ -75,6 +75,7 @@ Archive of leetcode solutions.
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Go](./algorithms/path-sum-iii/) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Go](./algorithms/delete-node-in-a-bst/) | Medium |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Typescript](./algorithms/permutation-in-string) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
