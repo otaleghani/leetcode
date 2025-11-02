@@ -106,6 +106,7 @@ Archive of leetcode solutions.
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) | [Go](./algorithms/kids-with-the-greatest-number-of-candies/) | Easy |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Go](./algorithms/count-good-nodes-in-binary-tree/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Go](./algorithms/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](./algorithms/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Go](./algorithms/longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
