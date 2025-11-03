@@ -89,6 +89,7 @@ Archive of leetcode solutions.
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Typescript](./algorithms/design-hashmap) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Go](./algorithms/asteroid-collision/) | Medium |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Go](./algorithms/min-cost-climbing-stairs/) | Easy |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
