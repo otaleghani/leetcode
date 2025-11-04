@@ -69,6 +69,7 @@ Archive of leetcode solutions.
 | 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Typescript](./algorithms/ransom-note) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Go](./algorithms/is-subsequence/) | Easy |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Go](./algorithms/decode-string/) | Medium |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Go](./algorithms/evaluate-division/) | Medium |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Typescript](./algorithms/longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) | Easy |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description) | [Go](./algorithms/longest-repeating-character-replacement/) | Medium |
