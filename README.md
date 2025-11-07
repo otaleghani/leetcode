@@ -130,6 +130,7 @@ Archive of leetcode solutions.
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Go](./algorithms/find-the-difference-of-two-arrays/) | Easy |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Go](./algorithms/count-unguarded-cells-in-the-grid) | Medium |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Go](./algorithms/find-the-k-beauty-of-a-number/) | Easy |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Go](./algorithms/successful-pairs-of-spells-and-potions/) | Medium |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Go](./algorithms/equal-row-and-column-pairs/) | Medium |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Go](./algorithms/removing-stars-from-a-string/) | Medium |
