@@ -41,6 +41,7 @@ Archive of leetcode solutions.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Typescript](./algorithms/linked-list-cycle) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [Typescript](./algorithms/min-stack/) | Medium |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description) | [Go](./algorithms/find-peak-element) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Typescript, Go](./algorithms/two-sum-ii/) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Typescript](./algorithms/majority-element) | Easy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
