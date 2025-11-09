@@ -124,6 +124,7 @@ Archive of leetcode solutions.
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Go](./algorithms/nearest-exit-from-entrance-in-maze/) | Medium |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript](./algorithms/concatenation-of-array) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
