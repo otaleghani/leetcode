@@ -148,3 +148,4 @@ Archive of leetcode solutions.
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-i/) | Medium |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-ii/) | Hard |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | [Typescript](./algorithms/find-closest-person) | Easy |
+| 3542 | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Go](./algorithms/minimum-operations-to-convert-all-elements-to-zero/) | Medium |
