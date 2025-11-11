@@ -79,6 +79,7 @@ Archive of leetcode solutions.
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Go](./algorithms/path-sum-iii/) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Go](./algorithms/delete-node-in-a-bst/) | Medium |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Go](./algorithms/ones-and-zeroes/) | Medium |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Typescript](./algorithms/permutation-in-string) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
@@ -135,6 +136,7 @@ Archive of leetcode solutions.
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Go](./algorithms/count-unguarded-cells-in-the-grid) | Medium |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Go](./algorithms/find-the-k-beauty-of-a-number/) | Easy |
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Go](./algorithms/successful-pairs-of-spells-and-potions/) | Medium |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Go](./algorithms/smallest-number-in-infinite-set/) | Medium |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Go](./algorithms/equal-row-and-column-pairs/) | Medium |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Go](./algorithms/removing-stars-from-a-string/) | Medium |
