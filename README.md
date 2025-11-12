@@ -144,6 +144,7 @@ Archive of leetcode solutions.
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Go](./algorithms/maximum-subsequence-score/) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [Javascript](./algorithms/counter/) | Easy |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [Javascript](./algorithms/twoSum/) | Easy |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Go](./algorithms/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [Javascript](./algorithms/return-length-of-arguments-passed/) | Easy |
 | 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/) | [Go](./algorithms/return-length-of-arguments-passed/) | Easy |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | [Typescript](./algorithms/minimum-operations-to-make-the-integer-zero/) | Medium |
