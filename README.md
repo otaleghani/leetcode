@@ -141,6 +141,7 @@ Archive of leetcode solutions.
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Go](./algorithms/removing-stars-from-a-string/) | Medium |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Go](./algorithms/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Go](./algorithms/maximum-subsequence-score/) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [Javascript](./algorithms/counter/) | Easy |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [Javascript](./algorithms/twoSum/) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [Javascript](./algorithms/return-length-of-arguments-passed/) | Easy |
