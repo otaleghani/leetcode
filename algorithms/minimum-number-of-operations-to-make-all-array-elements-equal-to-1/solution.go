@@ -23,8 +23,8 @@ func minOperations(nums []int) int {
 
 	minL := -1
 
-	for l := 2; l <= n; l++ { // Iterate through all possible lengths L
-		for i := 0; i <= n-l; i++ { // Iterate through all start indices i
+	for l := 2; l <= n; l++ {
+		for i := 0; i <= n-l; i++ {
 
 			g := 0
 			for j := i; j < i+l; j++ {

@@ -108,6 +108,7 @@ Archive of leetcode solutions.
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
+| 1318 [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Go](./algorithms/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Go](./algorithms/longest-zigzag-path-in-a-binary-tree/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) | [Go](./algorithms/kids-with-the-greatest-number-of-candies/) | Easy |
@@ -151,5 +152,6 @@ Archive of leetcode solutions.
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/description) | [Go](./algorithms/maximum-strong-pair-xor-i/) | Easy |
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-i/) | Medium |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-ii/) | Hard |
+| 3228 | [Maximum Number of Operations to Move Ones to the End](leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Go](./algorithms/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | [Typescript](./algorithms/find-closest-person) | Easy |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Go](./algorithms/minimum-operations-to-convert-all-elements-to-zero/) | Medium |
