@@ -144,6 +144,7 @@ Archive of leetcode solutions.
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Go](./algorithms/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Go](./algorithms/total-cost-to-hire-k-workers/) | Medium |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Go](./algorithms/maximum-subsequence-score/) | Medium |
+| 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one) | [Go](./algorithms/increment-submatrices-by-one/) | Medium |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [Javascript](./algorithms/counter/) | Easy |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [Javascript](./algorithms/twoSum/) | Easy |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Go](./algorithms/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
