@@ -27,6 +27,7 @@ Archive of leetcode solutions.
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Go](./algorithms/trapping-rain-water/) | Hard |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Python](./algorithms/permutations/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Typescript](./algorithms/group-anagrams/) | Medium |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Typescript](./algorithms/search-a-2d-matrix/) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Typescript](./algorithms/sort-colors) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Go](./algorithms/minimum-window-substring) | Hard |
