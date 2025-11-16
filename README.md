@@ -118,6 +118,7 @@ Archive of leetcode solutions.
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](./algorithms/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Go](./algorithms/longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Go](./algorithms/number-of-substrings-with-only-1s/) | Medium |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Go](./algorithms/determine-if-two-strings-are-close/) | Medium |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
