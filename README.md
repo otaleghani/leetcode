@@ -94,6 +94,7 @@ Archive of leetcode solutions.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Typescript](./algorithms/design-hashset) | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Typescript](./algorithms/design-hashmap) | Easy |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Go](./algorithms/asteroid-collision/) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Go](./algorithms/min-cost-climbing-stairs/) | Easy |
