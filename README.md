@@ -83,6 +83,7 @@ Archive of leetcode solutions.
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Go](./algorithms/delete-node-in-a-bst/) | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Go](./algorithms/ones-and-zeroes/) | Medium |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Go](./algorithms/max-consecutive-ones/) | Easy |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Typescript](./algorithms/permutation-in-string) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
@@ -123,6 +124,7 @@ Archive of leetcode solutions.
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Go](./algorithms/count-good-nodes-in-binary-tree/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Go](./algorithms/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](./algorithms/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Go](./algorithms/shuffle-the-array/) | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Go](./algorithms/longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Go](./algorithms/number-of-substrings-with-only-1s/) | Medium |
@@ -137,7 +139,7 @@ Archive of leetcode solutions.
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Go](./algorithms/nearest-exit-from-entrance-in-maze/) | Medium |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript](./algorithms/concatenation-of-array) | Easy |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript, Go](./algorithms/concatenation-of-array) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Go](./algorithms/maximum-twin-sum-of-a-linked-list/) | Medium |
