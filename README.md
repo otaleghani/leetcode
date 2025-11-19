@@ -141,6 +141,7 @@ Archive of leetcode solutions.
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Go](./algorithms/maximum-twin-sum-of-a-linked-list/) | Medium |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Go](./algorithms/keep-multiplying-found-values-by-two/) | Easy |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Go, C++](./algorithms/count-operations-to-obtain-zero/) | Easy |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Go](./algorithms/find-the-difference-of-two-arrays/) | Easy |
 | 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid) | [Go](./algorithms/count-unguarded-cells-in-the-grid) | Medium |
