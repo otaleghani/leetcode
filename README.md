@@ -51,6 +51,7 @@ Archive of leetcode solutions.
 | 199 | [House Robber](https://leetcode.com/problems/house-robber/) | [Go](./algorithms/house-robber/) | Medium |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](./algorithms/binary-tree-right-side-view/) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Typescript, Go](./algorithms/reverse-linked-list) | Medium |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Go](./algorithms/implement-trie-prefix-tree/) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Go](./algorithms/combination-sum-iii/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
