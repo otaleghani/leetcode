@@ -119,7 +119,7 @@ Archive of leetcode solutions.
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Go](./algorithms/search-suggestions-system/) | Medium |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
-| 1318 [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Go](./algorithms/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Go](./algorithms/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Go](./algorithms/longest-zigzag-path-in-a-binary-tree/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description) | [Go](./algorithms/kids-with-the-greatest-number-of-candies/) | Easy |
@@ -142,6 +142,7 @@ Archive of leetcode solutions.
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Go](./algorithms/nearest-exit-from-entrance-in-maze/) | Medium |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Go](./algorithms/unique-length-3-palindromic-subsequences/) | Medium |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [Typescript, Go](./algorithms/concatenation-of-array) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
