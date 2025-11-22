@@ -171,6 +171,7 @@ Archive of leetcode solutions.
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/description) | [Go](./algorithms/maximum-strong-pair-xor-i/) | Easy |
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-i/) | Medium |
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [Typescript](./algorithms/find-the-number-of-ways-to-place-people-ii/) | Hard |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Go](./algorithms/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Go](./algorithms/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Go](./algorithms/count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Go](./algorithms/find-x-sum-of-all-k-long-subarrays-i/) | Easy |
