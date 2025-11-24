@@ -80,6 +80,7 @@ Archive of leetcode solutions.
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Typescript](./algorithms/longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) | Easy |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description) | [Go](./algorithms/longest-repeating-character-replacement/) | Medium |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Go](./algorithms/non-overlapping-intervals/) | Medium |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Go](./algorithms/path-sum-iii/) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Go](./algorithms/delete-node-in-a-bst/) | Medium |
