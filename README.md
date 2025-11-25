@@ -84,6 +84,7 @@ Archive of leetcode solutions.
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Go](./algorithms/path-sum-iii/) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Go](./algorithms/delete-node-in-a-bst/) | Medium |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Go](./algorithms/minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Go](./algorithms/ones-and-zeroes/) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Go](./algorithms/max-consecutive-ones/) | Easy |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
