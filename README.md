@@ -115,6 +115,7 @@ Archive of leetcode solutions.
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) | [Go](./algorithms/number-of-recent-calls/) | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Go](./algorithms/smallest-integer-divisible-by-k/) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description) | [Go](./algorithms/greatest-common-divisor-of-strings/) | Easy |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
