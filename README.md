@@ -164,6 +164,7 @@ Archive of leetcode solutions.
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Go](./algorithms/equal-row-and-column-pairs/) | Medium |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Go](./algorithms/removing-stars-from-a-string/) | Medium |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Go](./algorithms/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [Go](./algorithms/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Go](./algorithms/total-cost-to-hire-k-workers/) | Medium |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Go](./algorithms/maximum-subsequence-score/) | Medium |
