@@ -32,7 +32,7 @@ Archive of leetcode solutions.
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Typescript](./algorithms/search-a-2d-matrix/) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Typescript](./algorithms/sort-colors) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Go](./algorithms/minimum-window-substring) | Hard |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Typescript](./algorithms/merge-sorted-array) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Typescript, Go](./algorithms/merge-sorted-array) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Typescript](./algorithms/same-tree) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Typescript](./algorithms/binary-tree-level-order-traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
@@ -182,5 +182,6 @@ Archive of leetcode solutions.
 | 3228 | [Maximum Number of Operations to Move Ones to the End](leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Go](./algorithms/maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Go](./algorithms/count-the-number-of-substrings-with-dominant-ones/) | Medium |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Go](./algorithms/find-x-sum-of-all-k-long-subarrays-i/) | Easy |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Go](./algorithms/maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | [Typescript](./algorithms/find-closest-person) | Easy |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Go](./algorithms/minimum-operations-to-convert-all-elements-to-zero/) | Medium |
