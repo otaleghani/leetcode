@@ -20,7 +20,7 @@ Archive of leetcode solutions.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Typescript](./algorithms/merge-two-sorted-lists/) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Typescript](./algorithms/generate-parentheses/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Typescript](./algorithms/remove-duplicates-from-sorted-array/) | Easy |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Typescript](./algorithms/remove-element) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Typescript, Go](./algorithms/remove-element) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [Typescript](./algorithms/remove-element) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Typescript](./algorithms/valid-sudoku) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Typescript](./algorithms/valid-sudoku) | Hard |
