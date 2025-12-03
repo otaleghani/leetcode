@@ -38,6 +38,7 @@ Archive of leetcode solutions.
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Typescript](./algorithms/binary-tree-level-order-traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Typescript, Go](./algorithms/best-time-to-buy-and-sell-stock/) | Easy |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-ii/) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Typescript, Go](./algorithms/valid-palindrome/) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./algorithms/longest-consecutive-sequence/) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
