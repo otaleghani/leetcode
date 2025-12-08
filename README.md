@@ -70,6 +70,7 @@ Archive of leetcode solutions.
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Go](./algorithms/product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Typescript, Go](./algorithms/valid-anagram) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Go](./algorithms/missing-number) | Easy |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Go](./algorithms/h-index/) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](./algorithms/move-zeroes/) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Typescript](./algorithms/range-sum-query-2d-immutable) | Medium |
 | 328 | [Odd Even Linked List](leetcode.com/problems/odd-even-linked-list/) | [Go](./algorithms/odd-even-linked-list/) | Medium |
