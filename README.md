@@ -45,7 +45,8 @@ Archive of leetcode solutions.
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-ii/) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Typescript, Go](./algorithms/valid-palindrome/) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./algorithms/longest-consecutive-sequence/) | Medium |
-| 135 | [Candcy](https://leetcode.com/problems/candy/) | [Go](./algorithms/candy/) | Hard |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Go](./algorithms/gas-station/) | Medium |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [Go](./algorithms/candy/) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript](./algorithms/linked-list-cycle) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
