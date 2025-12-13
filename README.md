@@ -11,8 +11,8 @@ Archive of leetcode solutions.
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Typescript](./algorithms/string-to-integer-atoi) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Typescript](./algorithms/palindrome-number) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Typescript, Go](./algorithms/container-with-most-water) | Medium |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Typescript](./algorithms/integer-to-roman/) | Medium |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Typescript](./algorithms/roman-to-integer) | Easy |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Typescript, Go](./algorithms/integer-to-roman/) | Medium |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Typescript, Go](./algorithms/roman-to-integer) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Typescript](./algorithms/longest-common-prefix) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Typescript](./algorithms/3sum) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Go](./algorithms/letter-combinations-of-a-phone-number/) | Medium |
