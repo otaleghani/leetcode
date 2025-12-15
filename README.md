@@ -59,6 +59,7 @@ Archive of leetcode solutions.
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Go](./algorithms/number-of-1-bits) | Easy |
 | 199 | [House Robber](https://leetcode.com/problems/house-robber/) | [Go](./algorithms/house-robber/) | Medium |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](./algorithms/binary-tree-right-side-view/) | Medium |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Go](./algorithms/isomorphic-strings/) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Typescript, Go](./algorithms/reverse-linked-list) | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Go](./algorithms/implement-trie-prefix-tree/) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
