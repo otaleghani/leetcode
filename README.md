@@ -85,7 +85,7 @@ Archive of leetcode solutions.
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Go](./algorithms/guess-number-higher-or-lower/) | Easy |
 | 375 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Go](./algorithms/reverse-vowels-of-a-string/) | Easy |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Go](./algorithms/insert-delete-getrandom-o1/) | Medium |
-| 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Typescript](./algorithms/ransom-note) | Easy |
+| 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Typescript, Go](./algorithms/ransom-note) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Go](./algorithms/is-subsequence/) | Easy |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Go](./algorithms/decode-string/) | Medium |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Go](./algorithms/evaluate-division/) | Medium |
