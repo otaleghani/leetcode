@@ -32,6 +32,7 @@ Archive of leetcode solutions.
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Go](./algorithms/edit-distance/) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Typescript](./algorithms/search-a-2d-matrix/) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Typescript](./algorithms/sort-colors) | Medium |
