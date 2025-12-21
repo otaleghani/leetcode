@@ -6,7 +6,7 @@ Archive of leetcode solutions.
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Javascript, Go](./algorithms/two-sum/) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Typescript](./algorithms/add-two-numbers/) | Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Typescript](./algorithms/longest-substring-without-repeating-characters/) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Typescript, Go](./algorithms/longest-substring-without-repeating-characters/) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Typescript](./algorithms/median-of-two-sorted-arrays/) | Hard |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](./algorithms/zigzag-conversion/) | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Typescript](./algorithms/string-to-integer-atoi) | Medium |
