@@ -78,6 +78,7 @@ Archive of leetcode solutions.
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Go](./algorithms/missing-number) | Easy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Go](./algorithms/h-index/) | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](./algorithms/move-zeroes/) | Easy |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Go](./algorithms/word-pattern/) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Typescript](./algorithms/range-sum-query-2d-immutable) | Medium |
 | 328 | [Odd Even Linked List](leetcode.com/problems/odd-even-linked-list/) | [Go](./algorithms/odd-even-linked-list/) | Medium |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Go](./algorithms/increasing-triplet-subsequence/) | Medium |
