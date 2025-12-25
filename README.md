@@ -30,6 +30,7 @@ Archive of leetcode solutions.
 | 45 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | [Go](./algorithms/jump-game-ii/) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript](./algorithms/group-anagrams/) | Medium |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
