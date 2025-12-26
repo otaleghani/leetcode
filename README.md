@@ -29,6 +29,7 @@ Archive of leetcode solutions.
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Go](./algorithms/trapping-rain-water/) | Hard |
 | 45 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | [Go](./algorithms/jump-game-ii/) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go](./algorithms/rotate-image/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript](./algorithms/group-anagrams/) | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
