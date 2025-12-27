@@ -37,6 +37,7 @@ Archive of leetcode solutions.
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Go](./algorithms/edit-distance/) | Medium |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Go](./algorithms/set-matrix-zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Typescript](./algorithms/search-a-2d-matrix/) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Typescript](./algorithms/sort-colors) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Go](./algorithms/minimum-window-substring) | Hard |
