@@ -30,7 +30,7 @@ Archive of leetcode solutions.
 | 45 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | [Go](./algorithms/jump-game-ii/) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go](./algorithms/rotate-image/) | Medium |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript](./algorithms/group-anagrams/) | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript, Go](./algorithms/group-anagrams/) | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
@@ -72,7 +72,7 @@ Archive of leetcode solutions.
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Go](./algorithms/combination-sum-iii/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Typescript](./algorithms/contains-duplicate-ii) | Easy |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Typescript, Go](./algorithms/contains-duplicate-ii) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Go](./algorithms/implement-stack-using-queues) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Typescript](./algorithms/invert-binary-tree) | Easy |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Typescript](./algorithms/lowest-common-ancestor-of-a-binary-search-tree) | Medium |
