@@ -34,6 +34,7 @@ Archive of leetcode solutions.
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Go](./algorithms/merge-intervals/) | Medium |
+| 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Go](./algorithms/insert-interval/) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
