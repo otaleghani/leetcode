@@ -75,6 +75,7 @@ Archive of leetcode solutions.
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Go](./algorithms/combination-sum-iii/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Typescript, Go](./algorithms/contains-duplicate-ii) | Easy |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Go](./algorithms/basic-calculator/) | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Go](./algorithms/implement-stack-using-queues) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Typescript](./algorithms/invert-binary-tree) | Easy |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Go](./algorithms/summary-ranges) | Easy |
