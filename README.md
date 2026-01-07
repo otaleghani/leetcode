@@ -58,7 +58,7 @@ Archive of leetcode solutions.
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript](./algorithms/linked-list-cycle) | Easy |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Typescript](./algorithms/min-stack/) | Medium |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Typescript, Go](./algorithms/min-stack/) | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Go](./algorithms/find-peak-element) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Typescript, Go](./algorithms/two-sum-ii/) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Typescript](./algorithms/majority-element) | Easy |
