@@ -47,6 +47,7 @@ Archive of leetcode solutions.
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Go](./algorithms/remove-duplicates-from-sorted-array-ii/) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Typescript, Go](./algorithms/merge-sorted-array) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Typescript](./algorithms/same-tree) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetryc-tree/) | [Go](./algorithms/symmetric-tree/) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Typescript](./algorithms/binary-tree-level-order-traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Typescript, Go](./algorithms/best-time-to-buy-and-sell-stock/) | Easy |
