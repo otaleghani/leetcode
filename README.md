@@ -57,7 +57,7 @@ Archive of leetcode solutions.
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Go](./algorithms/gas-station/) | Medium |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Go](./algorithms/candy/) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript](./algorithms/linked-list-cycle) | Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript, Go](./algorithms/linked-list-cycle) | Easy |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Go](./algorithms/evaluate-reverse-polish-notation/) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Typescript, Go](./algorithms/min-stack/) | Medium |
