@@ -18,7 +18,7 @@ Archive of leetcode solutions.
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Typescript](./algorithms/3sum) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Go](./algorithms/letter-combinations-of-a-phone-number/) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Typescript, Go](./algorithms/valid-parentheses/) | Easy |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Typescript](./algorithms/merge-two-sorted-lists/) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Typescript, Go](./algorithms/merge-two-sorted-lists/) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Typescript](./algorithms/generate-parentheses/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Typescript, Go](./algorithms/remove-duplicates-from-sorted-array/) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Typescript, Go](./algorithms/remove-element) | Easy |
