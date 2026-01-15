@@ -20,6 +20,7 @@ Archive of leetcode solutions.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Typescript, Go](./algorithms/valid-parentheses/) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Typescript, Go](./algorithms/merge-two-sorted-lists/) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Typescript](./algorithms/generate-parentheses/) | Medium |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Go](./algorithms/reverse-nodes-in-k-group/) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Typescript, Go](./algorithms/remove-duplicates-from-sorted-array/) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Typescript, Go](./algorithms/remove-element) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Go](./algorithms/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
