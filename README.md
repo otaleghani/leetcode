@@ -47,6 +47,7 @@ Archive of leetcode solutions.
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Typescript](./algorithms/sort-colors) | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Go](./algorithms/minimum-window-substring) | Hard |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Go](./algorithms/remove-duplicates-from-sorted-array-ii/) | Medium |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Go](./algorithms/remove-duplicates-from-sorted-list-ii/) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Typescript, Go](./algorithms/merge-sorted-array) | Easy |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Go](./algorithms/reverse-linked-list-ii/) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Typescript](./algorithms/same-tree) | Easy |
