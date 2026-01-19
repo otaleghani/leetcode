@@ -85,7 +85,7 @@ Archive of leetcode solutions.
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Typescript, Go](./algorithms/contains-duplicate-ii) | Easy |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Go](./algorithms/basic-calculator/) | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Go](./algorithms/implement-stack-using-queues) | Easy |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Typescript](./algorithms/invert-binary-tree) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Typescript, Go](./algorithms/invert-binary-tree) | Easy |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Go](./algorithms/summary-ranges) | Easy |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Typescript](./algorithms/lowest-common-ancestor-of-a-binary-search-tree) | Medium |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Go](./algorithms/lowest-common-ancestor-of-a-binary-tree/) | Medium |
