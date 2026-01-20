@@ -38,6 +38,7 @@ Archive of leetcode solutions.
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Go](./algorithms/merge-intervals/) | Medium |
 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Go](./algorithms/insert-interval/) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Go](./algorithms/rotate-list/) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Go](./algorithms/simplify-path/) | Medium |
