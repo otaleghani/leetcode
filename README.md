@@ -65,6 +65,7 @@ Archive of leetcode solutions.
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-ii/) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Typescript, Go](./algorithms/valid-palindrome/) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./algorithms/longest-consecutive-sequence/) | Medium |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Go](./algorithms/sum-root-to-leaf-numbers/) | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Go](./algorithms/gas-station/) | Medium |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Go](./algorithms/candy/) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
