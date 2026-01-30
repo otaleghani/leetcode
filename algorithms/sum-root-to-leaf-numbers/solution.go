@@ -34,8 +34,6 @@ func sumNumbers(root *TreeNode) int {
 		f(r.Left, sum)
 		f(r.Right, sum)
 		curr = curr[:len(curr)-1]
-
-		return
 	}
 
 	f(root, &tot)
