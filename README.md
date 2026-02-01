@@ -79,6 +79,7 @@ Archive of leetcode solutions.
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Go](./algorithms/find-peak-element) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Typescript, Go](./algorithms/two-sum-ii/) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Typescript](./algorithms/majority-element) | Easy |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Go](./algorithms/binary-search-tree-iterator/) | Medium |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Go](./algorithms/rotate-array/) | Medium |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Go](./algorithms/number-of-1-bits) | Easy |
