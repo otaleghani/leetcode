@@ -55,6 +55,7 @@ Archive of leetcode solutions.
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Typescript, Go](./algorithms/same-tree) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetryc-tree/) | [Go](./algorithms/symmetric-tree/) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Typescript, Go](./algorithms/binary-tree-level-order-traversal/) | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Go](./algorithms/binary-tree-zigzag-level-order-traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](./algorithms/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Go](./algorithms/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
