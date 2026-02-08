@@ -26,6 +26,7 @@ Archive of leetcode solutions.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Typescript, Go](./algorithms/remove-element) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Go](./algorithms/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Typescript](./algorithms/remove-element) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](./algorithms/search-insert-position/) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Typescript](./algorithms/valid-sudoku) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Typescript](./algorithms/valid-sudoku) | Hard |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Go](./algorithms/trapping-rain-water/) | Hard |
