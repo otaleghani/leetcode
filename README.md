@@ -43,6 +43,7 @@ Archive of leetcode solutions.
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Go](./algorithms/add-binary/) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Go](./algorithms/climbing-stairs/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Go](./algorithms/simplify-path/) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Go](./algorithms/edit-distance/) | Medium |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Go](./algorithms/set-matrix-zeroes/) | Medium |
