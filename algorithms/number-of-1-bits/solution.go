@@ -14,3 +14,15 @@ func hammingWeight(n int) int {
     }
     return weight
 }
+
+func hammingWeightBetter(n int) int {
+    res := 0
+
+    for i := 31; i >= 0; i-- {
+        if n & (1 << i) != 0 {
+            res += 1
+        }
+    }
+
+    return res
+}
