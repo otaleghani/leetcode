@@ -71,3 +71,58 @@ func calcEquation(equations [][]string, values []float64, queries [][]string) []
 
 	return results
 }
+
+func calcEquationAlt(equations [][]string, values []float64, queries [][]string) []float64 {
+	nodes := make(map[string]map[string]float64)
+
+	for i, eq := range equations {
+		u, v := eq[0], eq[1]
+		val := values[i]
+
+		if nodes[u] == nil {
+			nodes[u] = make(map[string]float64)
+		}
+		if nodes[v] == nil {
+			nodes[v] = make(map[string]float64)
+		}
+
+		nodes[u][v] = val
+		nodes[v][u] = 1.0 / val
+	}
+
+	var dfs func(curr, target string, visited map[string]bool) float64
+	dfs = func(curr, target string, visited map[string]bool) float64 {
+		if curr == target {
+			return 1.0
+		}
+
+		visited[curr] = true
+
+		for neighbor, weight := range nodes[curr] {
+			if !visited[neighbor] {
+				res := dfs(neighbor, target, visited)
+				if res != -1.0 {
+					return weight * res
+				}
+			}
+		}
+
+		return -1.0
+	}
+
+	results := make([]float64, len(queries))
+	for i, q := range queries {
+		start, end := q[0], q[1]
+
+		if nodes[start] == nil || nodes[end] == nil {
+			results[i] = -1.0
+		} else if start == end {
+			results[i] = 1.0
+		} else {
+			visited := make(map[string]bool)
+			results[i] = dfs(start, end, visited)
+		}
+	}
+
+	return results
+}
