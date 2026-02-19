@@ -100,6 +100,7 @@ Archive of leetcode solutions.
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Go](./algorithms/course-schedule/) | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Go](./algorithms/implement-trie-prefix-tree/) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Go](./algorithms/minimum-size-subarray-sum/) | Medium |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Go](./algorithms/course-schedule-II/) | Medium |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Go](./algorithms/combination-sum-iii/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
