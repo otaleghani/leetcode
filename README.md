@@ -41,6 +41,7 @@ Archive of leetcode solutions.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Go](./algorithms/length-of-last-word/) | Easy |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Go](./algorithms/rotate-list/) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Go](./algorithms/unique-paths/) | Medium |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Go](./algorithms/add-one/) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Go](./algorithms/add-binary/) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Go](./algorithms/climbing-stairs/) | Easy |
