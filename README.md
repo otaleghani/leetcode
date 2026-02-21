@@ -64,6 +64,7 @@ Archive of leetcode solutions.
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Typescript, Go](./algorithms/maximum-depth-of-binary-tree/) | Easy |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Go](./algorithms/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Go](./algorithms/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Go](./algorithms/convert-sorted-array-to-binary-search-tree/) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Go](./algorithms/path-sum/) | Easy |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Go](./algorithms/flatten-binary-tree-to-linked-list/) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Go](./algorithms/populating-next-right-pointers-in-each-node-ii/) | Medium |
