@@ -44,6 +44,7 @@ Archive of leetcode solutions.
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Go](./algorithms/add-one/) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Go](./algorithms/add-binary/) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Go](./algorithms/text-justification/) | Hard |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Go](./algorithms/sqrtx/) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Go](./algorithms/climbing-stairs/) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Go](./algorithms/simplify-path/) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Go](./algorithms/edit-distance/) | Medium |
