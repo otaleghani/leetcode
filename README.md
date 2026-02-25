@@ -176,6 +176,7 @@ Archive of leetcode solutions.
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Go](./algorithms/online-stock-span/) | Medium |
+| 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | [Go](./algorithms/snakes-and-ladders/) | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Typescript](./algorithms/sort-an-array/) | Medium |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Go](./algorithms/number-of-recent-calls/) | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
