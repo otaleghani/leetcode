@@ -142,6 +142,7 @@ Archive of leetcode solutions.
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Typescript](./algorithms/longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Go](./algorithms/fizz-buzz/) | Easy |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Go](./algorithms/longest-repeating-character-replacement/) | Medium |
+| 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Go](./algorithms/minimum-genetic-mutation/) | Medium |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Go](./algorithms/non-overlapping-intervals/) | Medium |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Go](./algorithms/path-sum-iii/) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [Go](./algorithms/string-compression/) | Medium |
