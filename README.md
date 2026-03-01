@@ -108,6 +108,7 @@ Archive of leetcode solutions.
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Go](./algorithms/minimum-size-subarray-sum/) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Go](./algorithms/course-schedule-II/) | Medium |
 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [Go](./algorithms/design-add-and-search-words-data-structure/) | Medium |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Go](./algorithms/word-search-ii/) | Hard |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Typescript](./algorithms/kth-largest-element-in-an-array) | Medium |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Go](./algorithms/combination-sum-iii/) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Typescript, Go](./algorithms/contains-duplicate) | Easy |
