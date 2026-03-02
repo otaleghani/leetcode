@@ -29,6 +29,7 @@ Archive of leetcode solutions.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](./algorithms/search-insert-position/) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Typescript](./algorithms/valid-sudoku) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Typescript](./algorithms/valid-sudoku) | Hard |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Go](./algorithms/combination-sum/) | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Go](./algorithms/trapping-rain-water/) | Hard |
 | 45 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | [Go](./algorithms/jump-game-ii/) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
