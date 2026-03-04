@@ -35,6 +35,7 @@ Archive of leetcode solutions.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go](./algorithms/rotate-image/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript, Go](./algorithms/group-anagrams/) | Medium |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Go](./algorithms/n-queens-ii/) | Hard |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Go](./algorithms/jump-game/) | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Go](./algorithms/merge-intervals/) | Medium |
