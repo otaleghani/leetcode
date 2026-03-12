@@ -162,6 +162,7 @@ Archive of leetcode solutions.
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Go](./algorithms/minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Go](./algorithms/ones-and-zeroes/) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Go](./algorithms/max-consecutive-ones/) | Easy |
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | [Go](./algorithms/ipo/) | Hard |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Go](./algorithms/minimum-absolute-difference-in-bst/) | Easy |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Typescript](./algorithms/permutation-in-string) | Medium |
