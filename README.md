@@ -143,6 +143,7 @@ Archive of leetcode solutions.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Typescript](./algorithms/reverse-string) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Typescript](./algorithms/top-k-frequent-elements) | Medium |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Go](./algorithms/sum-of-two-integers) | Medium |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Go](./algorithms/find-k-pairs-with-smallest-sums/) | Medium |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Go](./algorithms/guess-number-higher-or-lower/) | Easy |
 | 375 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Go](./algorithms/reverse-vowels-of-a-string/) | Easy |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Go](./algorithms/insert-delete-getrandom-o1/) | Medium |
