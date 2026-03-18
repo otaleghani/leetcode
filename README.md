@@ -38,6 +38,7 @@ Archive of leetcode solutions.
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/permutations/) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go](./algorithms/rotate-image/) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Typescript, Go](./algorithms/group-anagrams/) | Medium |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Go](./algorithms/powx-n/) | Medium |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Go](./algorithms/n-queens-ii/) | Hard |
 | 53 | [Maximum Subaray](https://leetcode.com/problems/maximum-subarray/) | [Go](./algorithms/maximum-subarray/) | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Go](./algorithms/spiral-matrix/) | Medium |
