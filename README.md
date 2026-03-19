@@ -95,6 +95,7 @@ Archive of leetcode solutions.
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript, Go](./algorithms/linked-list-cycle) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](./algorithms/lru-cache/) | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Go](./algorithms/sort-list/) | Medium |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Go](./algorithms/max-points-on-a-line/) | Hard |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Go](./algorithms/evaluate-reverse-polish-notation/) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Go](./algorithms/find-minimum-in-rotated-sorted-array/) | Medium |
