@@ -92,6 +92,7 @@ Archive of leetcode solutions.
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/single-number/) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Go](./algorithms/single-number-ii/) | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Go](./algorithms/copy-list-with-random-pointer/) | Medium |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Go](./algorithms/word-break/) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Typescript, Go](./algorithms/linked-list-cycle) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Go](./algorithms/lru-cache/) | Medium |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Go](./algorithms/sort-list/) | Medium |
