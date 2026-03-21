@@ -144,6 +144,7 @@ Archive of leetcode solutions.
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Go](./algorithms/word-pattern/) | Easy |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [Go](./algorithms/find-median-from-data-stream/) | Easy |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Typescript](./algorithms/range-sum-query-2d-immutable) | Medium |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Go](./algorithms/coin-change/) | Medium |
 | 328 | [Odd Even Linked List](leetcode.com/problems/odd-even-linked-list/) | [Go](./algorithms/odd-even-linked-list/) | Medium |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Go](./algorithms/increasing-triplet-subsequence/) | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Go](./algorithms/counting-bits) | Easy |
