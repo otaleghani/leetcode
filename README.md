@@ -78,6 +78,7 @@ Archive of leetcode solutions.
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Go](./algorithms/path-sum/) | Easy |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Go](./algorithms/flatten-binary-tree-to-linked-list/) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Go](./algorithms/populating-next-right-pointers-in-each-node-ii/) | Medium |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Go](./algorithms/triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Typescript, Go](./algorithms/best-time-to-buy-and-sell-stock/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-ii/) | Medium |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Go](./algorithms/binary-tree-maximum-path-sum/) | Har |
