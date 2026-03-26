@@ -8,6 +8,7 @@ Archive of leetcode solutions.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Typescript, Go](./algorithms/add-two-numbers/) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Typescript, Go](./algorithms/longest-substring-without-repeating-characters/) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Typescript](./algorithms/median-of-two-sorted-arrays/) | Hard |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](./algorithms/longest-palindromic-substring/) | Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](./algorithms/zigzag-conversion/) | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Typescript](./algorithms/string-to-integer-atoi) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Typescript, Go](./algorithms/palindrome-number) | Easy |
