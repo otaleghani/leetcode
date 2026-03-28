@@ -85,7 +85,8 @@ Archive of leetcode solutions.
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Go](./algorithms/triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Typescript, Go](./algorithms/best-time-to-buy-and-sell-stock/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-ii/) | Medium |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Go](./algorithms/binary-tree-maximum-path-sum/) | Har |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-iii/) | Hard |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Go](./algorithms/binary-tree-maximum-path-sum/) | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Typescript, Go](./algorithms/valid-palindrome/) | Easy |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Go](./algorithms/word-ladder/) | Hard |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Go](./algorithms/longest-consecutive-sequence/) | Medium |
