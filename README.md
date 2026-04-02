@@ -246,6 +246,7 @@ Archive of leetcode solutions.
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Go](./algorithms/longest-nice-substring/) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Typescript, Go](./algorithms/merge-strings-alternately) | Easy |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Go](./algorithms/sign-of-the-product-of-an-array/) | Easy |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Go](./algorithms/nearest-exit-from-entrance-in-maze/) | Medium |
