@@ -209,6 +209,7 @@ Archive of leetcode solutions.
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Go](./algorithms/monotonic-array/) | Easy |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Go](./algorithms/online-stock-span/) | Medium |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | [Go](./algorithms/snakes-and-ladders/) | Medium |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Typescript](./algorithms/sort-an-array/) | Medium |
