@@ -198,6 +198,7 @@ Archive of leetcode solutions.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Typescript](./algorithms/design-hashset) | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Typescript](./algorithms/design-hashmap) | Easy |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Go](./algorithms/to-lower-case/) | Easy |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Go](./algorithms/1-bit-and-2-bit-characters/) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
