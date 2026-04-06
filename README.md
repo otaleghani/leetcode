@@ -193,6 +193,7 @@ Archive of leetcode solutions.
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Go](./algorithms/set-mismatch/) | Easy |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Go](./algorithms/dota2-senate/) | Medium |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Go](./algorithms/robot-return-to-origin/) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Typescript](./algorithms/baseball-game) | Easy |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Go](./algorithms/search-in-a-binary-search-tree/) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Go](./algorithms/binary-search/) | Easy |
