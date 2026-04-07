@@ -228,6 +228,7 @@ Archive of leetcode solutions.
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Go](./algorithms/search-suggestions-system/) | Medium |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Go](./algorithms/find-winner-on-a-tic-tac-toe-game) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Go](./algorithms/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
