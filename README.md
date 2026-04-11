@@ -241,6 +241,7 @@ Archive of leetcode solutions.
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](./algorithms/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Go](./algorithms/shuffle-the-array/) | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Go](./algorithms/running-sum-of-1d-array/) | Easy |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Go](./algorithms/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Go](./algorithms/longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Go](./algorithms/can-make-arithmetic-progression-from-sequence/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Go](./algorithms/number-of-substrings-with-only-1s/) | Medium |
