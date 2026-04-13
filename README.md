@@ -210,6 +210,7 @@ Archive of leetcode solutions.
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Go](./algorithms/set-intersection-size-at-least-two/) | Hard |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Go](./algorithms/domino-and-tromino-tiling/) | Medium |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Go](./algorithms/lemonade-change/) | Easy |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Go](./algorithms/monotonic-array/) | Easy |
