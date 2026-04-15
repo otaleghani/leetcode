@@ -219,6 +219,7 @@ Archive of leetcode solutions.
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Typescript](./algorithms/sort-an-array/) | Medium |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Go](./algorithms/maximum-sum-circular-subarray/) | Medium |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Go](./algorithms/number-of-recent-calls/) | Easy |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Go](./algorithms/largest-perimeter-triangle/) | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Go](./algorithms/smallest-integer-divisible-by-k/) | Medium |
