@@ -257,6 +257,7 @@ Archive of leetcode solutions.
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Go](./algorithms/max-number-of-k-sum-pairs/) | Medium |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Go](./algorithms/find-the-highest-altitude/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [SQL](./algorithms/recyclable-and-low-fat-products/) | Easy |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Go](./algorithms/longest-nice-substring/) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Typescript, Go](./algorithms/merge-strings-alternately) | Easy |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
