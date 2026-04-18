@@ -10,6 +10,7 @@ Archive of leetcode solutions.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Typescript](./algorithms/median-of-two-sorted-arrays/) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](./algorithms/longest-palindromic-substring/) | Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](./algorithms/zigzag-conversion/) | Medium |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](./algorithms/reverse-integer/) | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Typescript](./algorithms/string-to-integer-atoi) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Typescript, Go](./algorithms/palindrome-number) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Typescript, Go](./algorithms/container-with-most-water) | Medium |
