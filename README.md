@@ -192,6 +192,7 @@ Archive of leetcode solutions.
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./algorithms/find-customer-referee/) | Easy |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./algorithms/big-countries/) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Go](./algorithms/can-place-flowers/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/average-of-levels-in-binary-tree/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
