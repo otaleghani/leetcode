@@ -233,6 +233,7 @@ Archive of leetcode solutions.
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Go](./algorithms/n-th-tribonacci-number/) | Easy |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Go](./algorithms/longest-common-subsequence/) | Medium |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Go](./algorithms/article-views-i/) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
