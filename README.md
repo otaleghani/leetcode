@@ -119,7 +119,8 @@ Archive of leetcode solutions.
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Go](./algorithms/rotate-array/) | Medium |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description) | [Go](./algorithms/reverse-bits/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Go](./algorithms/number-of-1-bits) | Easy |
-| 199 | [House Robber](https://leetcode.com/problems/house-robber/) | [Go](./algorithms/house-robber/) | Medium |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./algorithms/rising-temperature/) | Easy |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Go](./algorithms/house-robber/) | Medium |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](./algorithms/binary-tree-right-side-view/) | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Go](./algorithms/number-of-islands/) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Go](./algorithms/happy-number/) | Easy |
