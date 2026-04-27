@@ -262,6 +262,7 @@ Archive of leetcode solutions.
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Go](./algorithms/determine-if-two-strings-are-close/) | Medium |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [Go](./algorithms/average-time-of-process-per-machine/) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Go](./algorithms/richest-customer-wealth/) | Easy |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Go](./algorithms/max-number-of-k-sum-pairs/) | Medium |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [SQL](./algorithms/invalid-tweets/) | Easy |
