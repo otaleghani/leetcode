@@ -191,6 +191,7 @@ Archive of leetcode solutions.
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Typescript](./algorithms/permutation-in-string) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [SQL](./algorithms/employee-bonus/) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./algorithms/find-customer-referee/) | Easy |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./algorithms/big-countries/) | Easy |
