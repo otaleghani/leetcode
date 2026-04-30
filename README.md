@@ -190,6 +190,7 @@ Archive of leetcode solutions.
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Go](./algorithms/minimum-absolute-difference-in-bst/) | Easy |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Typescript](./algorithms/permutation-in-string) | Medium |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [SQL](./algorithms/managers-with-at-least-5-direct-reports/) | Medium |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [SQL](./algorithms/employee-bonus/) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./algorithms/find-customer-referee/) | Easy |
