@@ -197,6 +197,7 @@ Archive of leetcode solutions.
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./algorithms/big-countries/) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Go](./algorithms/can-place-flowers/) | Easy |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](./algorithms/not-boring-movies/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/average-of-levels-in-binary-tree/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Go](./algorithms/set-mismatch/) | Easy |
