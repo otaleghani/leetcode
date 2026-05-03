@@ -1,4 +1,4 @@
-# leetcode
+leetcode
 
 Archive of leetcode solutions.
 
@@ -242,6 +242,7 @@ Archive of leetcode solutions.
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [SQL](./algorithms/average-selling-price/) | Easy |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Go](./algorithms/search-suggestions-system/) | Medium |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Go](./algorithms/find-winner-on-a-tic-tac-toe-game) | Easy |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [Go](./algorithms/students-and-examinations/) | Easy |
