@@ -266,6 +266,7 @@ Archive of leetcode solutions.
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Go](./algorithms/count-odd-numbers-in-an-interval-range/) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Go](./algorithms/matrix-diagonal-sum/) | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL](./algorithms/percentage-of-users-attended-a-contest/) | Easy |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Go](./algorithms/determine-if-two-strings-are-close/) | Medium |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [Go](./algorithms/average-time-of-process-per-machine/) | Easy |
