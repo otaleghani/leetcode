@@ -242,6 +242,7 @@ Archive of leetcode solutions.
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Go](./algorithms/article-views-i/) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [SQL](./algorithms/queries-quality-and-percentage/) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [SQL](./algorithms/average-selling-price/) | Easy |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Go](./algorithms/search-suggestions-system/) | Medium |
