@@ -230,17 +230,18 @@ Archive of leetcode solutions.
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Go](./algorithms/largest-perimeter-triangle/) | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Go](./algorithms/smallest-integer-divisible-by-k/) | Medium |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Go](./algorithms/robot-bounded-in-circle/) | Medium |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [SQL](./algorithms/product-sales-analysis-i/) | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Go](./algorithms/greatest-common-divisor-of-strings/) | Easy |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL](./algorithms/project-employees-i/) | Easy |
-| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Go](./algorithms/n-th-tribonacci-number/) | Easy |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Go](./algorithms/longest-common-subsequence/) | Medium |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Go](./algorithms/article-views-i/) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [SQL](./algorithms/monthly-transactions-i/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [SQL](./algorithms/queries-quality-and-percentage/) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
