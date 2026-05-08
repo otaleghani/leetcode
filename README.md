@@ -241,6 +241,7 @@ Archive of leetcode solutions.
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Go](./algorithms/longest-common-subsequence/) | Medium |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Go](./algorithms/article-views-i/) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [SQL](./algorithms/immediate-food-delivery-ii/) | Medium |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [SQL](./algorithms/monthly-transactions-i/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [SQL](./algorithms/queries-quality-and-percentage/) | Easy |
