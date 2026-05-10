@@ -300,6 +300,7 @@ Archive of leetcode solutions.
 | 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Go](./algorithms/successful-pairs-of-spells-and-potions/) | Medium |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Go](./algorithms/smallest-number-in-infinite-set/) | Medium |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Go](./algorithms/equal-row-and-column-pairs/) | Medium |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [SQL](./algorithms/number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Go](./algorithms/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | [Go](./algorithms/removing-stars-from-a-string/) | Medium |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Go](./algorithms/paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
