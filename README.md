@@ -197,6 +197,7 @@ Archive of leetcode solutions.
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./algorithms/find-customer-referee/) | Easy |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./algorithms/big-countries/) | Easy |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students) | [SQL](./algorithms/classes-with-at-least-5-students/) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Go](./algorithms/can-place-flowers/) | Easy |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](./algorithms/not-boring-movies/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/average-of-levels-in-binary-tree/) | Easy |
