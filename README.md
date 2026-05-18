@@ -288,6 +288,7 @@ Archive of leetcode solutions.
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [SQL](./algorithms/recyclable-and-low-fat-products/) | Easy |
 | 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [Go](./algorithms/longest-nice-substring/) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Typescript, Go](./algorithms/merge-strings-alternately) | Easy |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | [SQL](./algorithms/primary-department-for-each-employee/) | Easy |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Typescript](./algorithms/maximum-average-pass-ratio) | Medium |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Go](./algorithms/sign-of-the-product-of-an-array/) | Easy |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
