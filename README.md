@@ -114,6 +114,7 @@ Archive of leetcode solutions.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Typescript](./algorithms/majority-element) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Go](./algorithms/factorial-trailing-zeroes/) | Medium |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Go](./algorithms/binary-search-tree-iterator/) | Medium |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [SQL](./algorithms/consecutive-numbers/) | Medium |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Go](./algorithms/best-time-to-buy-and-sell-stock-iv/) | Hard |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Go](./algorithms/rotate-array/) | Medium |
