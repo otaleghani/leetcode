@@ -252,6 +252,7 @@ Archive of leetcode solutions.
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [SQL](./algorithms/product-price-at-a-given-date/) | Medium |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [SQL](./algorithms/immediate-food-delivery-ii/) | Medium |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [SQL](./algorithms/monthly-transactions-i/) | Medium |
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [SQL](./algorithms/last-person-to-fit-in-the-bus/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [SQL](./algorithms/queries-quality-and-percentage/) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
