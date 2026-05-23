@@ -297,6 +297,7 @@ Archive of leetcode solutions.
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Go](./algorithms/sign-of-the-product-of-an-array/) | Easy |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Go](./algorithms/sum-of-all-subset-xor-totals) | Easy |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Go](./algorithms/substrings-of-size-three-with-distinct-characters/) | Easy |
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [SQL](./algorithms/count-salary-categories/) | Medium |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Go](./algorithms/nearest-exit-from-entrance-in-maze/) | Medium |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Typescript, Go](./algorithms/concatenation-of-array) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Go](./algorithms/unique-length-3-palindromic-subsequences/) | Medium |
