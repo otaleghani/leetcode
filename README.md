@@ -302,6 +302,7 @@ Archive of leetcode solutions.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Typescript, Go](./algorithms/concatenation-of-array) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Go](./algorithms/unique-length-3-palindromic-subsequences/) | Medium |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | [SQL](./algorithms/confirmation-rate/) | Medium |
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [SQL](./algorithms/employees-whose-manager-left-the-company/) | Easy |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Go](./algorithms/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Go](./algorithms/delete-the-middle-node-of-a-linked-list/) | Medium |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Go](./algorithms/maximum-twin-sum-of-a-linked-list/) | Medium |
