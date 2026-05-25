@@ -203,6 +203,7 @@ Archive of leetcode solutions.
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [SQL](./algorithms/triangle-judgement/) | Easy |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [SQL](./algorithms/biggest-single-number/) | Easy |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](./algorithms/not-boring-movies/) | Easy |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [SQL](./algorithms/exchange-seats/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Go](./algorithms/average-of-levels-in-binary-tree/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Go](./algorithms/maximum-average-subarray-i) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Go](./algorithms/set-mismatch/) | Easy |
