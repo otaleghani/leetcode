@@ -196,6 +196,7 @@ Archive of leetcode solutions.
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Typescript](./algorithms/subtree-of-another-tree) | Easy |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [SQL](./algorithms/employee-bonus/) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./algorithms/find-customer-referee/) | Easy |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) | [SQL](./algorithms/investments-in-2016/) | Medium |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Go](./algorithms/longest-harmonious-subsequence) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./algorithms/big-countries/) | Easy |
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students) | [SQL](./algorithms/classes-with-at-least-5-students/) | Easy |
