@@ -283,6 +283,7 @@ Archive of leetcode solutions.
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Go](./algorithms/can-make-arithmetic-progression-from-sequence/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Go](./algorithms/number-of-substrings-with-only-1s/) | Medium |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Go](./algorithms/count-odd-numbers-in-an-interval-range/) | Easy |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [SQL](./algorithms/patients-with-a-condition/) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Go](./algorithms/matrix-diagonal-sum/) | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL](./algorithms/percentage-of-users-attended-a-contest/) | Easy |
