@@ -121,6 +121,7 @@ Archive of leetcode solutions.
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Go](./algorithms/rotate-array/) | Medium |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description) | [Go](./algorithms/reverse-bits/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Go](./algorithms/number-of-1-bits) | Easy |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [SQL](./algorithms/delete-duplicate-emails/) | Easy |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](./algorithms/rising-temperature/) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Go](./algorithms/house-robber/) | Medium |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](./algorithms/binary-tree-right-side-view/) | Medium |
