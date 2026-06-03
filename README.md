@@ -114,6 +114,7 @@ Archive of leetcode solutions.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Typescript](./algorithms/majority-element) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Go](./algorithms/factorial-trailing-zeroes/) | Medium |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Go](./algorithms/binary-search-tree-iterator/) | Medium |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](./algorithms/second-highest-salary/) | Medium |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [SQL](./algorithms/consecutive-numbers/) | Medium |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [SQL](./algorithms/department-top-three-salaries/) | Hard |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Go](./algorithms/repeated-dna-sequences/) | Medium |
