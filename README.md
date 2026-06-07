@@ -228,6 +228,7 @@ Archive of leetcode solutions.
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Go](./algorithms/min-cost-climbing-stairs/) | Easy |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Go](./algorithms/set-intersection-size-at-least-two/) | Hard |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Go](./algorithms/domino-and-tromino-tiling/) | Medium |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Go](./algorithms/find-eventual-safe-states/) | Medium |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Go](./algorithms/lemonade-change/) | Easy |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
