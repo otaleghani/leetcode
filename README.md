@@ -260,6 +260,7 @@ Archive of leetcode solutions.
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [SQL](./algorithms/product-price-at-a-given-date/) | Medium |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [SQL](./algorithms/immediate-food-delivery-ii/) | Medium |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [Go](./algorithms/critical-connections-in-a-network/) | Hard |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [SQL](./algorithms/monthly-transactions-i/) | Medium |
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [SQL](./algorithms/last-person-to-fit-in-the-bus/) | Medium |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Go](./algorithms/unique-number-of-occurrences/) | Medium |
