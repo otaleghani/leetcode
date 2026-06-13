@@ -272,6 +272,7 @@ Archive of leetcode solutions.
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Go](./algorithms/find-winner-on-a-tic-tac-toe-game) | Easy |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [Go](./algorithms/students-and-examinations/) | Easy |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Typescript](./algorithms/find-n-unique-integers-sum-up-to-zero) | Easy |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Go](./algorithms/jump-game-iii/) | Medium |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [Go](./algorithms/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [SQL](./algorithms/restaurant-growth/) | Medium |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [SQL](./algorithms/list-the-products-ordered-in-a-period/) | Easy |
