@@ -254,6 +254,7 @@ Archive of leetcode solutions.
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Go](./algorithms/greatest-common-divisor-of-strings/) | Easy |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [Go](./algorithms/flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL](./algorithms/project-employees-i/) | Easy |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Go](./algorithms/shortest-path-in-binary-matrix/) | Medium |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | [Go](./algorithms/shortest-path-with-alternating-colors/) | Medium |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Go](./algorithms/n-th-tribonacci-number/) | Easy |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [SQL](./algorithms/user-activity-for-the-past-30-days-i/) | Easy |
