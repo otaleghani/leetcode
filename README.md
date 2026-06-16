@@ -233,6 +233,7 @@ Archive of leetcode solutions.
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Go](./algorithms/find-eventual-safe-states/) | Medium |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Go](./algorithms/lemonade-change/) | Easy |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Go](./algorithms/all-nodes-distance-k-in-binary-tree/) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Go](./algorithms/leaf-similar-trees/) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Typescript](./algorithms/koko-eating-bananas/) | Medium |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Go](./algorithms/monotonic-array/) | Easy |
