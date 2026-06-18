@@ -249,6 +249,7 @@ Archive of leetcode solutions.
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Go](./algorithms/smallest-integer-divisible-by-k/) | Medium |
+| 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Go](./algorithms/number-of-enclaves/) | Medium |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Go](./algorithms/robot-bounded-in-circle/) | Medium |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [SQL](./algorithms/customers-who-bought-all-products/) | Medium |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [SQL](./algorithms/product-sales-analysis-i/) | Easy |
