@@ -273,6 +273,7 @@ Archive of leetcode solutions.
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [SQL](./algorithms/queries-quality-and-percentage/) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [Go](./algorithms/check-if-it-is-a-straight-line/) | Easy |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | [SQL](./algorithms/average-selling-price/) | Easy |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Go](./algorithms/number-of-closed-islands/) | Medium |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Go](./algorithms/search-suggestions-system/) | Medium |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Go](./algorithms/find-winner-on-a-tic-tac-toe-game) | Easy |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | [Go](./algorithms/students-and-examinations/) | Easy |
