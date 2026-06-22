@@ -248,6 +248,7 @@ Archive of leetcode solutions.
 | 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Go](./algorithms/shortest-bridge/) | Medium |
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Go](./algorithms/largest-perimeter-triangle/) | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Go](./algorithms/find-the-town-judge/) | Easy |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Go](./algorithms/max-consecutive-ones-iii/) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Go](./algorithms/binary-prefix-divisible-by-5/) | Easy |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Go](./algorithms/smallest-integer-divisible-by-k/) | Medium |
