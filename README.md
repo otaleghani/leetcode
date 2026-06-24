@@ -308,6 +308,7 @@ Archive of leetcode solutions.
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Go](./algorithms/minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Go](./algorithms/matrix-diagonal-sum/) | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](./algorithms/customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [Go](./algorithms/maximal-network-rank/) | Medium |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [SQL](./algorithms/percentage-of-users-attended-a-contest/) | Easy |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Go](./algorithms/defuse-the-bomb/) | Easy |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Go](./algorithms/determine-if-two-strings-are-close/) | Medium |
