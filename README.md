@@ -230,6 +230,7 @@ Archive of leetcode solutions.
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Go](./algorithms/daily-temperatures/) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Go](./algorithms/min-cost-climbing-stairs/) | Easy |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Go](./algorithms/set-intersection-size-at-least-two/) | Hard |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Go](./algorithms/is-graph-bipartite/) | Medium |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Go](./algorithms/domino-and-tromino-tiling/) | Medium |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Go](./algorithms/all-paths-from-source-to-target/) | Medium |
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Go](./algorithms/find-eventual-safe-states/) | Medium |
