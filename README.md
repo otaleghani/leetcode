@@ -225,6 +225,7 @@ Archive of leetcode solutions.
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Go](./algorithms/to-lower-case/) | Easy |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Go](./algorithms/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Go](./algorithms/1-bit-and-2-bit-characters/) | Easy |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Go](./algorithms/accounts-merge/) | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Go](./algorithms/asteroid-collision/) | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Go](./algorithms/daily-temperatures/) | Medium |
