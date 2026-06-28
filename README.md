@@ -258,6 +258,7 @@ Archive of leetcode solutions.
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Go](./algorithms/number-of-enclaves/) | Medium |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Go](./algorithms/robot-bounded-in-circle/) | Medium |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [SQL](./algorithms/customers-who-bought-all-products/) | Medium |
+| 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | [Go](./algorithms/lexicographically-smallest-equivalent-string/) | Medium |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [SQL](./algorithms/product-sales-analysis-i/) | Easy |
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | [SQL](./algorithms/product-sales-analysis-iii/) | Medium |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Go](./algorithms/greatest-common-divisor-of-strings/) | Easy |
