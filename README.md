@@ -235,6 +235,7 @@ Archive of leetcode solutions.
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Go](./algorithms/domino-and-tromino-tiling/) | Medium |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Go](./algorithms/all-paths-from-source-to-target/) | Medium |
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Go](./algorithms/find-eventual-safe-states/) | Medium |
+| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Go](./algorithms/similar-string-groups/) | Hard |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Go](./algorithms/lemonade-change/) | Easy |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Go](./algorithms/all-nodes-distance-k-in-binary-tree/) | Medium |
