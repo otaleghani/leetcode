@@ -229,6 +229,7 @@ Archive of leetcode solutions.
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Go](./algorithms/find-pivot-index/) | Easy |
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Go](./algorithms/asteroid-collision/) | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Go](./algorithms/daily-temperatures/) | Medium |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Go](./algorithms/find-smallest-letter-greater-than-target/) | Easy |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Go](./algorithms/min-cost-climbing-stairs/) | Easy |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Go](./algorithms/set-intersection-size-at-least-two/) | Hard |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Go](./algorithms/is-graph-bipartite/) | Medium |
