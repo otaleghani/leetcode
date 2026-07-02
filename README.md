@@ -294,6 +294,7 @@ Archive of leetcode solutions.
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | [SQL](./algorithms/list-the-products-ordered-in-a-period/) | Easy |
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [SQL](./algorithms/movie-rating/) | Medium |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Go](./algorithms/number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Go](./algorithms/count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Go](./algorithms/longest-zigzag-path-in-a-binary-tree/) | Medium |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Go](./algorithms/time-needed-to-inform-all-employees/) | Medium |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Go](./algorithms/replace-employee-id-with-the-unique-identifier/) | Easy |
