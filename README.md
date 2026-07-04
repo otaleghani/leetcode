@@ -252,6 +252,7 @@ Archive of leetcode solutions.
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Go](./algorithms/number-of-recent-calls/) | Easy |
 | 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Go](./algorithms/shortest-bridge/) | Medium |
 | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [Go](./algorithms/largest-perimeter-triangle/) | Easy |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Go](./algorithms/time-based-key-value-store/) | Medium |
 | 990 | [ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Go](./algorithms/satisfiability-of-equality-equations/) | Medium |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Go](./algorithms/rotting-oranges/) | Medium |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Go](./algorithms/find-the-town-judge/) | Easy |
