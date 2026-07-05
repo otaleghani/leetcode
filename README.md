@@ -273,6 +273,7 @@ Archive of leetcode solutions.
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Go](./algorithms/n-th-tribonacci-number/) | Easy |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [SQL](./algorithms/user-activity-for-the-past-30-days-i/) | Easy |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Go](./algorithms/longest-common-subsequence/) | Medium |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [Go](./algorithms/snapshot-array/) | Medium |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [Go](./algorithms/article-views-i/) | Easy |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Go](./algorithms/maximum-level-sum-of-a-binary-tree/) | Medium |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [SQL](./algorithms/product-price-at-a-given-date/) | Medium |
