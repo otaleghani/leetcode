@@ -108,6 +108,7 @@ Archive of leetcode solutions.
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Go](./algorithms/evaluate-reverse-polish-notation/) | Medium |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Go](./algorithms/reverse-words-in-a-string/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Go](./algorithms/find-minimum-in-rotated-sorted-array/) | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Go](./algorithms/find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Typescript, Go](./algorithms/min-stack/) | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Go](./algorithms/find-peak-element) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Typescript, Go](./algorithms/two-sum-ii/) | Medium |
