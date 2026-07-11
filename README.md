@@ -155,6 +155,7 @@ Archive of leetcode solutions.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Typescript, Go](./algorithms/valid-anagram) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Go](./algorithms/missing-number) | Easy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Go](./algorithms/h-index/) | Medium |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Go](./algorithms/h-index-ii/) | Medium |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Go](./algorithms/first-bad-version/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](./algorithms/move-zeroes/) | Easy |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Go](./algorithms/game-of-life/) | Medium |
