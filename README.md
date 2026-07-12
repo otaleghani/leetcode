@@ -199,6 +199,7 @@ Archive of leetcode solutions.
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Go](./algorithms/max-consecutive-ones/) | Easy |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [Go](./algorithms/ipo/) | Hard |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Go](./algorithms/minimum-absolute-difference-in-bst/) | Easy |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Go](./algorithms/single-element-in-a-sorted-array/) | Medium |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [Go](./algorithms/01-matrix/) | Medium |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Go](./algorithms/number-of-provinces/) | Medium |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [SQL](./algorithms/game-play-analysis-iv/) | Medium |
