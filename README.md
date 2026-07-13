@@ -245,6 +245,7 @@ Archive of leetcode solutions.
 | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Go](./algorithms/find-eventual-safe-states/) | Medium |
 | 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Go](./algorithms/similar-string-groups/) | Hard |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Go](./algorithms/keys-and-rooms/) | Medium |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Go](./algorithms/peak-index-in-a-mountain-array/) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Go](./algorithms/lemonade-change/) | Easy |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Go](./algorithms/all-nodes-distance-k-in-binary-tree/) | Medium |
 | 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [Go](./algorithms/shortest-path-to-get-all-keys/) | Hard |
