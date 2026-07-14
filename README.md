@@ -223,6 +223,7 @@ Archive of leetcode solutions.
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Go](./algorithms/set-mismatch/) | Easy |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Go](./algorithms/dota2-senate/) | Medium |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Go](./algorithms/robot-return-to-origin/) | Easy |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Go](./algorithms/find-k-closest-elements/) | Medium |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Typescript](./algorithms/baseball-game) | Easy |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Go](./algorithms/max-area-of-island/) | Medium |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Go](./algorithms/search-in-a-binary-search-tree/) | Easy |
