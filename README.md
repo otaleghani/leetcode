@@ -215,6 +215,7 @@ Archive of leetcode solutions.
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [SQL](./algorithms/friend-requests-ii-who-has-the-most-friends/) | Medium |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Go](./algorithms/can-place-flowers/) | Easy |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [SQL](./algorithms/triangle-judgement/) | Easy |
+| 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Go](./algorithms/valid-triangle-number/) | Medium |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [SQL](./algorithms/biggest-single-number/) | Easy |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](./algorithms/not-boring-movies/) | Easy |
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [SQL](./algorithms/exchange-seats/) | Easy |
