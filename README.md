@@ -320,6 +320,7 @@ Archive of leetcode solutions.
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [SQL](./algorithms/group-sold-products-by-the-date/) | Easy |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Go](./algorithms/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Go](./algorithms/longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Go](./algorithms/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [Go](./algorithms/can-make-arithmetic-progression-from-sequence/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Go](./algorithms/number-of-substrings-with-only-1s/) | Medium |
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [SQL](./algorithms/find-users-with-valid-e-mails/) | Easy |
