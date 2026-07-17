@@ -198,6 +198,7 @@ Archive of leetcode solutions.
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Go](./algorithms/ones-and-zeroes/) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Go](./algorithms/max-consecutive-ones/) | Easy |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | [Go](./algorithms/ipo/) | Hard |
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Go](./algorithms/random-pick-with-weight/) | Medium |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Go](./algorithms/minimum-absolute-difference-in-bst/) | Easy |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Go](./algorithms/single-element-in-a-sorted-array/) | Medium |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [Go](./algorithms/01-matrix/) | Medium |
