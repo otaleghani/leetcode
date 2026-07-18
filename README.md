@@ -169,6 +169,7 @@ Archive of leetcode solutions.
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Go](./algorithms/counting-bits) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Typescript](./algorithms/reverse-string) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Typescript](./algorithms/top-k-frequent-elements) | Medium |
+| 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) | [Go](./algorithms/russian-doll-envelopes/) | Hard |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Go](./algorithms/valid-perfect-square/) | Easy |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Go](./algorithms/sum-of-two-integers) | Medium |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Go](./algorithms/find-k-pairs-with-smallest-sums/) | Medium |
