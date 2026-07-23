@@ -33,6 +33,7 @@ Archive of leetcode solutions.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Typescript, Go](./algorithms/remove-element) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Go](./algorithms/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Typescript](./algorithms/remove-element) | Medium |
+| 31 | [Next Permutation](next-permutation/) | [Go](./algorithms/next-permutation/) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Go](./algorithms/search-in-rotated-sorted-array/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Go](./algorithms/find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](./algorithms/search-insert-position/) | Easy |
